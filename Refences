@@ -1,0 +1,15 @@
+Martin, O. (2024). Bayesian Analysis with Python: A Practical Guide to Probabilistic Modeling, Third Edition. Packt Publishing.
+Official BAP3 Code Repository: https://github.com/aloctavodia/BAP3
+PyMC Documentation: https://www.pymc.io/
+ArviZ Documentation: https://python.arviz.org/
+Bambi Documentation: https://bambinos.github.io/bambi/
+PreliZ Documentation: https://preliz.readthedocs.io/
+Disclaimer
+
+This repository is for educational and civilian portfolio development purposes. It contains my own study notes, code implementations, analysis notebooks, and applied projects. It does not reproduce the full contents of the source textbook.
+
+Author
+
+Stanley Guinn
+Data Analyst | MS Data Analytics
+Focus Areas: Bayesian Statistics, Decision Science, Python Analytics, Probabilistic Modeling, and Applied Data Analysis

@@ -6,7 +6,7 @@ This repository is designed to strengthen applied Bayesian analysis skills for d
 The main goals of this repository are to:
 
 - Development of my of Bayesian statistics analysis.
-- Learn how to build probabilistic models in Python using PyMC.
+- Build probabilistic models in Python using PyMC.
 - Use ArviZ to summarize, diagnose, and communicate Bayesian models.
 - Apply prior predictive checks, posterior summaries, and posterior predictive checks.
 - Build Bayesian regression, hierarchical models, mixture models, Gaussian processes, and BART models.
